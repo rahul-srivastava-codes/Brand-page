@@ -1,12 +1,44 @@
-# React + Vite
+# 🏷️ Nike Brand Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing and responsive brand landing page inspired by Nike, built using **React** and **TailwindCSS**. The page features a sleek navigation bar, hero section, and marketplace links (Amazon and Flipkart).
 
-Currently, two official plugins are available:
+![Nike Brand Page Preview](./preview.png) <!-- Replace with your actual image path -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Modern UI with TailwindCSS
+- ✅ Fully responsive layout
+- 🖼️ High-quality hero image
+- 🔘 Interactive buttons (Shop, Category)
+- 🌐 Marketplace icons (Amazon, Flipkart)
+- 💡 Minimal, clean, and branded design
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech        | Purpose                      |
+|-------------|------------------------------|
+| **React**   | Frontend framework           |
+| **TailwindCSS** | Styling and layout        |
+| **Vite** *(optional)* | Build & dev server  |
+
+---
+
+
+*## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/nike-brand-page.git
+cd nike-brand-page
+
+2. **Install Dependencies**
+
+npm install
+npm run dev
+
